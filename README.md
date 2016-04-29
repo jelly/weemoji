@@ -1,2 +1,9 @@
 # weemoji
-Text to emoji conversion for weechat
+Text to emoji conversion plugin for Weechat.
+
+# Installation
+Copy the plugin to ~/.weechat/python and execute the following command in weechat.
+
+```
+/script load weemoji.py
+```
