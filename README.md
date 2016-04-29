@@ -12,5 +12,5 @@ Copy the plugin to ~/.weechat/python and execute the following command in weecha
 The text "there is an elephant in the house" is replaced by:
 
 ```
-13:37:00 @jelle | there is an 🐘 in the 
+13:37:00 @jelle | there is an 🐘 in the🏠
 ```
